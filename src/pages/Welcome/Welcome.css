@@ -1,0 +1,17 @@
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Header {
+  display: flex;
+  justify-content: center;
+}
+
+.Navigation {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 50px;
+}
